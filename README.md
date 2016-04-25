@@ -3,4 +3,5 @@ Code Samples and Projects
 
 Included in this repository
 
--The Ultimate Paragon (Source and Executable)
+-The Ultimate Paragon Game (Combine Assets and Source Code into same folder to execute)
+-The Ultimate Paragon Source (All source files)
